@@ -1,5 +1,7 @@
 ### Hi there, I'm Pratham R Shetty! 👋
 
+![](https://komarev.com/ghpvc/?username=praths71018&color=green)
+
 I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, currently in my 3rd year. I'm passionate about web development, mobile development, and exploring the realms of AI/ML. When I'm not coding, you can find me playing cricket or indulging in my favorite web series. Oh, and I'm a certified weeb!
 
 #### How to reach me:
