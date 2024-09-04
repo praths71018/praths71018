@@ -49,7 +49,7 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
    - Projects: [Router Placement](https://github.com/JiteshNayak2004/router_placement) 
 
 4. **AI / ML:**
-   - Beginner in Machine Learning and AI. Proficient in:
+   - Medium proficiency in Machine Learning and AI. Proficient in:
      - Supervised Machine Learning
      - Deep Learning
      - Natural Language Processing
