@@ -37,8 +37,6 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
         </tr>
     	</table>
      </div>
-    
-   - Projects: [Router Placement](https://github.com/JiteshNayak2004/router_placement) 
 
 3. **AI / ML:**
 4. **Programming Languages:**
