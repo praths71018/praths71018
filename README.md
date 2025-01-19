@@ -103,7 +103,7 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=praths71018&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="praths71018's GitHub Stats" width="400" height="200" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=praths71018&theme=dark&hide_border=false" alt="praths71018's GitHub Streak" width="400" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praths71018&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="praths71018's Top Languages" width="400" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praths71018&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="praths71018's Top Languages" width="400" height="150" />
 </div>
 
 <p align="center">
