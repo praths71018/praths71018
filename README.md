@@ -106,6 +106,12 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praths71018&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="praths71018's Top Languages" width="400" height="200" />
 </div>
 
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=praths71018&theme=juicyfresh&row=3&column=3" alt="GitHub Profile Trophy" />
+    </a>
+</p>
+
 #### Education and Certifications:
 - B.Tech in Computer Science and Engineering, 3rd Year
 - Top 10 in KODIKON 2.0 Hackathon
