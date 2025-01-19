@@ -112,14 +112,4 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
     </a>
 </p>
 
-#### Education and Certifications:
-- B.Tech in Computer Science and Engineering, 3rd Year
-- Top 10 in KODIKON 2.0 Hackathon
-- Runners Up in Arithemenia 2.0 Hackathon
-
-#### Interests and Hobbies:
-- Cricket
-- Watching web series
-- Exploring new technologies
-
 Feel free to connect with me! Let's collaborate and build something awesome together.
