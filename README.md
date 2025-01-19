@@ -8,8 +8,7 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
 
 #### Major Skillsets:
 1. **Full Stack Web Development:**
-
-      <div align="center">
+<div align="center">
         <table>
 		      <tr>
           	<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/><code></td>
@@ -21,11 +20,13 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
           	<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/><code></td>
           	<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/><code></td>
           	<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/><code></td>
-              <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code></td>
+              <td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
+<td>	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code></td>
+<td>	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" title="Django"/></code>
+</td>
       		</tr>
 	      </table>
       </div>
-
 
 2. **Mobile Development:**
      
