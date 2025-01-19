@@ -8,8 +8,6 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
 
 #### Major Skillsets:
 1. **Full Stack Web Development:**
-   
-   - Proficient in:
 
       <div align="center">
         <table>
@@ -28,12 +26,8 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
 	      </table>
       </div>
 
-   - Projects:
-     - [Webgames](https://github.com/praths71018/Webgames-MERN-Stack)
-     - [Football Statistis Webpage](https://github.com/praths71018/Fut_Stats)  
 
-3. **Mobile Development:**
-   - Medium proficiency in :
+2. **Mobile Development:**
      
      <div align="center">
        <table>
@@ -46,19 +40,8 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
     
    - Projects: [Router Placement](https://github.com/JiteshNayak2004/router_placement) 
 
-4. **AI / ML:**
-   - Medium proficiency in Machine Learning and AI. Proficient in:
-     - Supervised Machine Learning
-     - Deep Learning
-     - Natural Language Processing
-     - Big Data
-     - Data Analytics
-       
-   - Projects:
-     - [Crop Recommendation System and Disease Prediction](https://github.com/JiteshNayak2004/agrisaathi)
-     - [Deep Fake Detection](https://github.com/praths71018/deep-detect)
-
-5. **Programming Languages:**
+3. **AI / ML:**
+4. **Programming Languages:**
    <div align="center">
   	<table>
   		<tr>
@@ -109,11 +92,6 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
 		</tr>
 	</table>
 </div>
-  
-#### Other Project Highlights:
-- Project 1: [MAX30205 Body Temperature Sensor](https://github.com/praths71018/MAX30205-Arduino-Uno-CustomTK)
-- Project 2: [Custom Tkinter- SQL Integration](https://github.com/praths71018/CustomTkinter-SQL-Integration)
-- Project 3: [Task Manager](https://github.com/praths71018/Task-Manager)
 
 #### GitHub Stats:
 ![praths71018's Stats](https://github-readme-stats.vercel.app/api?username=praths71018&theme=dark&show_icons=true&hide_border=false&count_private=true)
@@ -122,8 +100,8 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
 
 #### Education and Certifications:
 - B.Tech in Computer Science and Engineering, 3rd Year
-- Top 10 in KODIKON 2.0
-- Runners Up in Arithemenia 2.0 
+- Top 10 in KODIKON 2.0 Hackathon
+- Runners Up in Arithemenia 2.0 Hackathon
 
 #### Interests and Hobbies:
 - Cricket
