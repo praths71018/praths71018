@@ -39,7 +39,9 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
     	</table>
      </div>
 
-3. **AI / ML:**
+3. **AI / ML:** <br><br>
+   [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+   
 4. **Programming Languages:**
    <div align="center">
   	<table>
@@ -52,7 +54,7 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
   	</table>
   </div>
 
-6. **Tools / Languages:**
+5. **Tools / Languages:**
    <div align="center">
 	<table>
 		<tr>
@@ -71,12 +73,15 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
 			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="yarn" title="yarn"/></code></td>
 			<td><code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573" alt="Hadoop" title="Hadoop"/></code></td>
 			<td><code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ef235485-5e32-4d25-8c49-5dbe77e50f3e" alt="Hive" title="Hive"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code></td>
 			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" title="Apache Spark"/></code></td>
 			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/></code></td>
+			<td><code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code></td>
 		</tr>
 		<tr>
-			<td><code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bitbucket.png" alt="Bitbucket" title="Bitbucket"/></code></td>
+			<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="redis" title="redis"/></code></td>
+		<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></code></td>
+		<td><code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code></td>
 		</tr>
 	</table>
 </div>
